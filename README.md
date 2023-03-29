@@ -1,7 +1,8 @@
-# Parte2_ejer1
-•	Para todos los ejercicios deberá realizar una organización en métodos.
+# Ejercicio 1 (Scanner): 
+
 •	Utilice sangría, comentarios y buenos nombres para las declaraciones.
 
-### Ejercicio 1 (Scanner): 
-Realizar un programa que utilice métodos para **cargar**  e **imprimir** información sobre una persona: Apellido (String), edad (int), altura (double) y cédula (long). 
-Investigue en la API de Java u otro sitio web acerca de los métodos de la clase Scanner.
+a) Realizar un programa que **pida al usuario**  y **muestre en pantalla** la información sobre una persona: cédula (int), Apellido (String), edad (int), peso y altura (double). 
+
+b) Realice una copia del programa anterior y modifiquelo para que un método  ** cargar** pida los datos al usuario y otro método  **mostrar** muestre en pantalla la información cargada
+

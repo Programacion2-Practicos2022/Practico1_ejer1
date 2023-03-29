@@ -1,4 +1,3 @@
-
 # Java Example
 javac *.java
-java Main
+java Principal
